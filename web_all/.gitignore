@@ -1,0 +1,51 @@
+# === Python backend ignores ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.dist/
+build/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.env
+.env.*
+*.sqlite3
+# Model / large artifacts
+*.safetensors
+*.pt
+*.bin
+adapter_model/
+# Chroma / vector db local data
+chroma_store/
+
+# === Node/React frontend ignores ===
+node_modules/
+/.pnp
+.pnp.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+# Production build output
+web_front-main/build/
+web_front-main/.cache/
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Misc
+*.bak
+*.tmp
