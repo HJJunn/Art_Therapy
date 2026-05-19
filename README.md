@@ -4,7 +4,8 @@
 > HTP(House-Tree-Person) 그림 검사 기반의 심리 해석을 위해  
 > 이미지 캡셔닝, 컴퓨터 비전, RAG, LLM 파인튜닝을 결합한  
 > AI 기반 심리 상담 챗봇 프로젝트입니다.
-
+> ## My Role
+> RAG 파트 👉 https://github.com/HJJunn/Art_Therapy_Chat_bot
 ---
 
 # 🚀 Overview
